@@ -1,2 +1,2 @@
-# kelime_tahminleme_aray-zl-
+# kelime_tahminleme_arayuzlu-
 BBY261 Final Projesi 
